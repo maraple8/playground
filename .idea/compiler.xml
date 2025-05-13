@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="1024" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Annotation profile for playground" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.5.5.Final/mapstruct-processor-1.5.5.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar" />
+        </processorPath>
+        <module name="xfhuang-spring-boot-starter-jackson" />
+        <module name="playground-gateway" />
+        <module name="playground-kv-biz" />
+        <module name="playground-count-biz" />
+        <module name="playground-user-relation-biz" />
+        <module name="playground-note-api" />
+        <module name="playground-data-align" />
+        <module name="playground-kv-api" />
+        <module name="xfhuang-spring-boot-starter-biz-operationlog" />
+        <module name="playground-user-relation-api" />
+        <module name="playground-auth" />
+        <module name="playground-count-api" />
+        <module name="xfhuang-common" />
+        <module name="playground-oss-biz" />
+        <module name="playground-note-biz" />
+        <module name="playground-user-api" />
+        <module name="playground-distributed-id-generator-api" />
+        <module name="playground-oss-api" />
+        <module name="playground-user-biz" />
+        <module name="playground-distributed-id-generator-biz" />
+        <module name="xfhuang-spring-boot-starter-biz-context" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

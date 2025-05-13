@@ -1,0 +1,2 @@
+com.xfhuang.framework.biz.context.config.ContextAutoConfiguration
+com.xfhuang.framework.biz.context.config.FeignContextAutoConfiguration

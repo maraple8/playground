@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/playground-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-count/playground-count-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-count/playground-count-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-count/playground-count-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-count/playground-count-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-count/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-count/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-data-align/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-data-align/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-distributed-id-generator/playground-distributed-id-generator-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-distributed-id-generator/playground-distributed-id-generator-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-distributed-id-generator/playground-distributed-id-generator-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-distributed-id-generator/playground-distributed-id-generator-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-distributed-id-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-distributed-id-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-framework/xfhuang-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-framework/xfhuang-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-framework/xfhuang-spring-boot-starter-biz-context/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-framework/xfhuang-spring-boot-starter-biz-context/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-framework/xfhuang-spring-boot-starter-biz-operationlog/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-framework/xfhuang-spring-boot-starter-biz-operationlog/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-framework/xfhuang-spring-boot-starter-jackson/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-framework/xfhuang-spring-boot-starter-jackson/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-kv/playground-kv-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-kv/playground-kv-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-kv/playground-kv-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-kv/playground-kv-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-kv/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-kv/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-note/playground-note-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-note/playground-note-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-note/playground-note-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-note/playground-note-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-note/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-note/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-oss/playground-oss-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-oss/playground-oss-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-oss/playground-oss-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-oss/playground-oss-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-oss/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-user-relation/playground-user-relation-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-user-relation/playground-user-relation-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-user-relation/playground-user-relation-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-user-relation/playground-user-relation-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-user-relation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-user-relation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-user/playground-user-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-user/playground-user-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-user/playground-user-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-user/playground-user-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/playground-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
